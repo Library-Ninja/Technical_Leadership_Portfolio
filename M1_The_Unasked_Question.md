@@ -1,6 +1,6 @@
 # M1: The Unasked Question
 
-*Creating a resource that solves an existing problem.*
+*Create a resource that solves an existing problem.*
 
 **Target Skills: Resource Creation, Stakeholder Identification, Problem Solving**
 
