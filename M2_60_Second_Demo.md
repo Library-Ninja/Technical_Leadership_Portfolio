@@ -10,7 +10,7 @@ Record a 60-second video of yourself explaining one technical concept clearly, w
 
 ## Process
 
-To prepare for this video, I first decided on a topic that would benefit from a short explanation for those learning the concept. I decided on the concept of abstract classes in Java because I just finished a course on object-oriented design and found that inheritance, abstract classes, and interfaces were some of the most challenging concepts for my classmates and I. I decided that a short introductory video for abstract classes would be helpful for those learning this complex topic for the first time.
+To prepare for this video, I first decided on a topic that would benefit from a short explanation for those learning the concept. I decided on the concept of abstract classes in Java because I just finished a course on object-oriented design and found that inheritance, abstract classes, and interfaces were some of the most challenging concepts for my classmates and me. I decided that a short introductory video for abstract classes would be helpful for those learning this complex topic for the first time.
 
 Next, I developed an outline for the video. Only having 60 seconds to record, I narrowed down a long and complex explanation into the key points of abstract classes. I considered the prior knowledge required for the video and whether those assumptions were reasonable.
 
