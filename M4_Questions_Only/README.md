@@ -20,7 +20,7 @@ The following guiding questions helped the scholar resolve the issue on her own:
 
 ## Deliverable
 
-Below are the responses I received from the scholar after each question was asked.
+Below are the responses I received from the scholar after each question was asked:
 
 1. What do you think this error message is saying?
     1. The scholar responded in an unintended way by reading out the exact wording of the error message (unexpected token). I gave some context that a token in this case might represent a character in the code.
