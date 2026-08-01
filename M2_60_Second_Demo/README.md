@@ -4,6 +4,8 @@
 
 **Target Skills: Verbal Precision, Concise Summarization, Accessible Communication**
 
+06/07/26
+
 ## Task
 
 Record a 60-second video of yourself explaining one technical concept clearly, with no filler words and no notes.
