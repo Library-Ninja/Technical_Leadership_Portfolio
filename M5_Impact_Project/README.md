@@ -20,7 +20,7 @@ After receiving feedback from the organization on the wireframes, I started to c
 
 ## Deliverable
 
-[Link to new website design for Beaches Water Co-op](https://www.beacheswater.com/new-design/index.html)
+[Link to new website for Beaches Water Co-op](https://www.beacheswater.com/new-design/index.html)
 
 ## Reflection
 
