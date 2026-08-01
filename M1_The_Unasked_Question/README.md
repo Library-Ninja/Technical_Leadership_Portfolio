@@ -4,6 +4,8 @@
 
 **Target Skills: Resource Creation, Stakeholder Identification, Problem Solving**
 
+05/31/26
+
 ## Task
 
 Identify an unasked question in a technical community and proactively develop a resource to solve the problem. The technical community I selected is the 2026 Kode With Klossy (KWK) Web Development summer camps for which I will be an Instructor Assistant. The resource I developed is an extra practice activity for one of the most challenging concepts in the camp's curriculum: The DOM.
