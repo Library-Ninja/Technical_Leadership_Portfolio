@@ -3,22 +3,13 @@
 *Technical Leadership Accelerator, Kode With Klossy 2026*
 
 ### Why Technical Leadership?
-
-[describe importance of technical communication + leadership within KWK program and/or your line of work]
-
-Placeholder introductory text.
+I have always appreciated teachers and leaders that explain the "why" behind the answers to my questions, rather than just handing over a piece of code or an unexplained shortcut. Through this program, I have spent twelve weeks developing the communication skills that unlock that same understanding for myself and the people around me. I've practiced communicating with team members of both technical and non-technical backgrounds and learned how to use each team member's strengths rather than relying on individual knowledge. These skills are worth taking the time to develop because they are the reason a team gets unstuck and continuously expands their knowledge and efficiency. Starting out within the Kode With Klossy community, then expanding my communication to a local community, I have developed the following projects in this portfolio that demonstrate my communication skills and the real impact they can leave on a community.
 
 ### How to Navigate This Repo
-
-[describe the structure of folders or markdown documents]
-
-Placeholder description text.
+Each folder contains one of the projects I completed during my time in this program. The README.md file in each folder describes the task I completed, my process for developing the project, the deliverable itself, and a reflection on the skills I developed by building the project. The folder also contains any relevant files showcasing my work on the project.
 
 ### Leadership Arc Baseline Reflection
-When code frustrates me, my default communication pattern is to try and figure out the issue or bug by myself by looking through my entire code. Instead, I will work towards asking for help, which can save valuable time. The stakeholders I'm least likely to consider in my technical work are the behind-the-scenes leaders that often create the resources and structure for the communities in which I participate. If I was going to pick one technical community to make better this summer, it would be the Kode With Klossy Web Development camps I am leading as an Instructor Assistant because in this role, I have the greatest responsibility for the success of the scholars and the position to create a welcoming, challenging, and safe technical community.
+I realized that when code frustrates me, my default communication pattern is to figure out the issue or bug by myself while viewing asking for help as a shortcoming of my own knowledge. Through analyzing the communities I am a part of, I realized that the behind-the-scenes leaders who define the resources and structure of a community are the stakeholders I am least likely to consider, even though they often have the position to make the greatest impact. Now that I have identified my own patterns and blind spots, I can develop my technical communication skills this summer with these personal experiences in mind. My goal is to positively impact the Klossy Web Development summer camps I am leading as an Instructor Assistant because in this role, I have the greatest responsibility for the success of the scholars and the position to create a welcoming, challenging, and safe technical community.
 
 ### Final Reflection
-
-[describe any final thoughts after accelerator completion and/or tailor for future resumé use]
-
-Placeholder reflection text.
+At the start of this program, my default problem-solving strategy was to look inward and solve the problem myself. This program has turned my gaze outward to use the valuable experiences of others and return the favor by strengthening the team. I started the program by developing a resource for a community I know well: the Kode With Klossy summer camps. Then, I practiced speaking intentionally in order to convey complex technical ideas in an accessible way for a range of audiences. I applied the same intentional communication to a live pair-programming session. Next, I delivered written feedback in a productive way that protects the recipient's dignity and while providing them with concrete steps to expand their knowledge. I then applied feedback orally with the same considerations in mind, allowing the recipient to discover the solution themselves and take a new understanding into their next project instead of just a one-time solution. By the end of the program, I felt confident reaching out to a local organization, building a new website design to improve community members' interactions with their website. I used to think that learning was all about individual action. Now I know that learning happens through communication, and that I can be the team member that creates the environment for efficient growth.
