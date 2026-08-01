@@ -1,4 +1,4 @@
-# Impact Project: New Website Design For Beaches Water Co-op
+# Impact Project: New Website For Beaches Water Co-op
 
 Find a bottleneck in a real community and build an asset to minimize that problem for community members.
 
