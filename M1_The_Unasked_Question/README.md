@@ -6,7 +6,7 @@
 
 ## Task
 
-Identify an unasked question in a technical community and proactively develop a resource to solve the problem. The technical community I selected is the 2026 Kode With Klossy Web Development summer camps for which I will be an Instructor Assistant. The resource I developed is an extra practice activity for one of the most challenging concepts in the camp's curriculum: The DOM.
+Identify an unasked question in a technical community and proactively develop a resource to solve the problem. The technical community I selected is the 2026 Kode With Klossy (KWK) Web Development summer camps for which I will be an Instructor Assistant. The resource I developed is an extra practice activity for one of the most challenging concepts in the camp's curriculum: The DOM.
 
 ## Process
 
@@ -28,4 +28,4 @@ This resource contains both a CodeSandbox template that scholars can fork and co
 
 ## Reflection
 
-This resource benefits both scholars and Instructor Assistants (IAs) at the 2026 Kode With Klossy Web Development camps. The unasked question is the need for a resource that will provide scholars another opportunity for differentiated learning and give IAs a ready-to-use resource when their scholars need one. While not required for the Instructor Assistant position, I developed this resource so that other IAs can support their scholars’ learning if they do not have the time to develop resources themselves during camp. After using this resource during camp this summer, any feedback from scholars or IAs will be used to improve its usefulness and relevancy for future camps.
+This resource benefits both scholars and Instructor Assistants (IAs) at the 2026 Kode With Klossy Web Development camps. The unasked question is the need for a resource that will provide scholars another opportunity for differentiated learning and give IAs a ready-to-use resource when their scholars need one. While not required for the Instructor Assistant position, I developed this resource so that other IAs can support their scholars’ learning if they do not have the time to develop resources themselves during camp. I shared this resource with the teams for the two camps I led this summer, and the feedback I received from one camp is included in the folder for this project. The team found that the instructions were helpful for guiding scholars through the activity.
