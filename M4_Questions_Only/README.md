@@ -4,6 +4,8 @@
 
 **Target Skills: Constructive Inquiry, Verbal Precision, Accessible Communication**
 
+07/12/26
+
 ## Task
 
 During a Kode With Klossy camp, I was asked by a scholar to help debug her code. The exercise was in JavaScript, and the error was a syntax error in a couple of console.log() statements. The scholar used curly braces instead of parenthesis surrounding the content to be printed to the console and did not use a semicolon at the end of each line.
