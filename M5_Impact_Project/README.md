@@ -4,6 +4,8 @@ Find a bottleneck in a real community and build an asset to minimize that proble
 
 **Target Skills: Stakeholder Identification, Problem Solving, Web Design, Accessible Communication**
 
+08/02/26
+
 ## Task
 
 I found a bottleneck in the community served by the Beaches Water Co-op, located in Calvert County, Maryland. The asset I built, a new website design, allows community members to more effectively engage with the organization through their website. The new design is responsive such that it can be viewed on all screen sizes, more accessible, and modernized.
