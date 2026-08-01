@@ -4,6 +4,8 @@
 
 **Target Skills: Accessible Communication, Problem Solving**
 
+06/14/26
+
 ## Task
 
 Collaborate with a partner for a 30-minute pair-programming session during which you solve a programming challenge. Use the “Driver” and “Navigator” roles (Driver writes the code and syntax details; Navigator guides the coder and focuses on the bigger picture) to facilitate your discussion and solution.
